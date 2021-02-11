@@ -1,0 +1,8 @@
+# Sqrl
+Sqrl is a squaring CLI that will resize and crop or add whitespace to make square images.
+
+## Build
+First run `go get`
+Then run `go build`
+
+Add the new executable to your path 
